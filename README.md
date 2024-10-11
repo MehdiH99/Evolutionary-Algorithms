@@ -12,9 +12,12 @@ Algorithms Implemented
 
 Genetic Algorithm (GA)
 An evolutionary algorithm that uses selection, crossover, and mutation to evolve solutions to the N-Queen problem.
+
 Particle Swarm Optimization (PSO)
 A population-based optimization technique inspired by the social behavior of birds and fish, where solutions move through the search space influenced by their own and neighbors' experiences.
+
 Bees Algorithm
 A foraging behavior-inspired optimization technique that mimics the search behavior of bees to find optimal solutions.
+
 Ant Colony Optimization (ACO)
 An optimization algorithm inspired by the foraging behavior of ants, utilizing pheromone trails to find optimal paths to solutions.
